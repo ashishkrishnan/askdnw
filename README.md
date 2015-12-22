@@ -5,4 +5,4 @@
 
 
 
-> Towards the commitment to the open source community
+> Commitment towards the open source community
